@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  secret_santa
+
+  Created by Mariya Aliyeva on 10.04.2024.
+  
+ */
+
+ "Create_game" = "Create game";
+ "Personal_data" = "Personal data";
+ "Register" = "Register";
+ "Organize_a_secret_exchange_between_friends_or_colleagues" = "Organize a secret exchange between friends or colleagues";
+ "Secret_Santa" = "Secret Santa";
